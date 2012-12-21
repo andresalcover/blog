@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+
+
+.right, th.right, td.right {text-align: right;}
+.center, th.center, td.center {text-align: center;}
+.left, th.left, td.left {text-align: left;}
+
+
+
+.main-container {
+	min-height:600px ;
+}
