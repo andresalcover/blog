@@ -36,18 +36,18 @@ class TeraWurflConfig{
 	 * For MongoDB, this may be blank if authentication is not used
 	 * @var String
 	 */
-	public static $DB_USER = "aitor";
+	public static $DB_USER = "";
 	/**
 	 * Database Password
 	 * For MongoDB, this may be blank if authentication is not used
 	 * @var String
 	 */
-	public static $DB_PASS = 'aitor';
+	public static $DB_PASS = '';
 	/**
 	 * Database Name / Schema Name
 	 * @var String
 	 */
-	public static $DB_SCHEMA = "blog";
+	public static $DB_SCHEMA = "";
 	/**
 	 * Database Connector (MySQL4, MySQL5, MSSQL2005, MongoDB)
 	 * @var String
